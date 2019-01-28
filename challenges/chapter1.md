@@ -1,10 +1,9 @@
 ---
-title: "example_python_challenges"
+title: example_python_challenges
 output: html_document
 ---
 
 ## [MC] Choose the right answer
-
 
 ```yaml
 type: MultipleChoiceChallenge
@@ -41,7 +40,7 @@ Assuming `matplotlib.pyplot` is imported as `plt`, which command clears the curr
 - `plt.clear`
 - [`plt.clf()`]
 
---- 
+---
 
 ## concatenating lists
 
@@ -80,7 +79,7 @@ op:
 
 ```
 
---- 
+---
 
 ## popping lists (2)
 
