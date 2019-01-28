@@ -117,3 +117,12 @@ l1:
 n:
   - '!expr g.rand_int(hi=5)'
 ```
+
+---
+
+## Insert challenge title here
+
+```yaml
+type: MultipleChoiceChallenge
+key: a8253693e8
+```
